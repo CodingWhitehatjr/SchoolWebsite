@@ -1,0 +1,16 @@
+body{
+    font-family: cursive;
+    text-align: center;
+}
+h1{
+    color: darkblue;
+}
+.page-header{
+    font-family: cursive
+}
+.text-capitalize{
+    color: #064996;
+}
+#text{
+    font-family: cursive;
+}
